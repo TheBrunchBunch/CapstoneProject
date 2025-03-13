@@ -1,18 +1,25 @@
 from scholarly import scholarly
+import csv
 
 # search for the query
-query = "aviation disassembly"
-search_results = scholarly.search_pubs(query)
+query = "discrete components disassembly"
+save_path = "../links/"
 
 
+def get_info_from_qurey(query, save_path):
+    search_results = scholarly.search_pubs(query)
+    # save the search results to a csv file
+    with open(f"{save_path}article_{query}.csv", "w", newline='', encoding="utf-8") as csvfile:
+        fieldnames = ['Title', 'Authors', 'Year', 'URL']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-# save the search results to a file
-with open(f"links/article_{query}.txt", "w", encoding="utf-8") as f:
-    for i in range(100):
-        article = next(search_results)
-        # save the article to a file
-        f.write(f"Title: {article['bib']['title']}\n")
-        f.write(f"Authors: {article['bib']['author']}\n")
-        f.write(f"Year: {article['bib']['pub_year']}\n")
-        url = article.get('pub_url', 'N/A')  
-        f.write(f"URL: {url}\n")
+        writer.writeheader()
+        for _ in range(100):
+            article = next(search_results)
+            writer.writerow({
+                'Title': article['bib']['title'],
+                'Authors': article['bib']['author'],
+                'Year': article['bib']['pub_year'],
+                'URL': article.get('pub_url', 'NA')
+            })
+    print(f"Saved to {save_path}article_{query}.csv")
