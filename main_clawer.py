@@ -5,7 +5,7 @@ import requests
 import csv
 import os
 
-# Drive API 3 token, for uploading files to Google Drive
+# Drive API 3 token, for uploading files to Google Drive from this link: https://developers.google.com/oauthplayground
 token = "ya29.a0AeXRPp6nHl4d3KvN-519DkouX_qFJITP3rXyban7oB8HvOchQA7wBv6UEq7aD0lUFR0CLIPj0PQqpuiwNSvpCY9bmPUhaAJK6BEduv74W_PfBwhCxQTVpf38zHfJPr7LuJsx6rlV12nLrp8TOdR6XNaDlHfLptqbmbVUxYgHaCgYKAWkSAQ4SFQHGX2MiG6kqDaBSfEYJmshpOSeF2w0175"
 # instance of the folder where the files will be uploaded
 folder_id = "1v2yiyaHoPmF4rzGl7ZTKmXcOMXjJxZ7p"
