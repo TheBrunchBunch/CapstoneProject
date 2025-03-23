@@ -5,11 +5,13 @@ import requests
 import csv
 import os
 
-token = "ya29.a0AeXRPp41IwFaGVkIL6zLw-WtMjY_5cpYx96NLjojoVA-g-XAfBL6wEVteW2LRjI3LGN2HvXj3RYAlWDdJ68lyCKgr4rVycTgXUVN7SWXDRek6B25BBsq2hF1GVT7suTVuf2Zxw1jScl0avhmOL7t9-UyQUuaoUgwnJEgBEkiaCgYKATISAQ4SFQHGX2MiGqO0h1lVjKp9NEV8r90-fA0175"
+# Drive API 3 token, for uploading files to Google Drive
+token = "ya29.a0AeXRPp6nHl4d3KvN-519DkouX_qFJITP3rXyban7oB8HvOchQA7wBv6UEq7aD0lUFR0CLIPj0PQqpuiwNSvpCY9bmPUhaAJK6BEduv74W_PfBwhCxQTVpf38zHfJPr7LuJsx6rlV12nLrp8TOdR6XNaDlHfLptqbmbVUxYgHaCgYKAWkSAQ4SFQHGX2MiG6kqDaBSfEYJmshpOSeF2w0175"
+# instance of the folder where the files will be uploaded
 folder_id = "1v2yiyaHoPmF4rzGl7ZTKmXcOMXjJxZ7p"
-file_name = "../documents/paper.pdf"
-upload_name = "paper.pdf"
-def upload_to_drive(upload_name, folder_id, token, file_name):
+
+
+def upload_to_drive(upload_name, folder_id, token, file_bytes):
     headers = {"Authorization": "Bearer " + token}
     para = {
         "name": upload_name,
@@ -18,7 +20,7 @@ def upload_to_drive(upload_name, folder_id, token, file_name):
 
     files = {
         'data': ('metadata', json.dumps(para), 'application/json; charset=UTF-8'),
-        'file': open(file_name, "rb")
+        'file': (upload_name, file_bytes, 'application/pdf')
     }
 
     r = requests.post(
@@ -30,7 +32,11 @@ def upload_to_drive(upload_name, folder_id, token, file_name):
 
 
 def main():
-    query = "discrete components disassembly"
+    query = input("Enter the query: ")
+    confirm = input(f"Are you sure you want to download papers for the query '{query}'? (y/n): ")
+    if confirm.lower() != "y":
+        print("Exiting...")
+        return
     save_path = "../links/"
     # if the csv file already exists, then use the existing file
     if not os.path.exists(f"{save_path}article_{query}.csv"):
@@ -44,10 +50,12 @@ def main():
         for row, i in zip(reader, range(100)):
             url = row['URL']
             if url != "NA":
-                if sci_hub_pdf.get_pdf(url, "../documents/", f"query_{query}_paper_{i}.pdf") == 1:
+                pdf_bytes = sci_hub_pdf.get_pdf(url)
+                if pdf_bytes:
                     upload_name = f"query_{query}_paper_{i}.pdf"
-                    file_name = f"../documents/query_{query}_paper_{i}.pdf"
-                    upload_to_drive(upload_name, folder_id, token, file_name)
+                    upload_to_drive(upload_name, folder_id, token, pdf_bytes)
 
 
 main()
+# paper_url = "https://ieeexplore.ieee.org/abstract/document/9269520/"
+# upload_to_drive("test.pdf", folder_id, token, sci_hub_pdf.get_pdf(paper_url))
