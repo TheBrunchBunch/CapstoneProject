@@ -28,7 +28,7 @@ def split_into_paragraphs(text_pages):
         paragraphs.extend(paras)
     return paragraphs
 
-pdf_path = 'query_discrete components disassembly_paper_1.pdf'  
+pdf_path = 'CapstoneProject/query_discrete components disassembly_paper_1.pdf'  
 raw_text = extract_text_from_pdf(pdf_path)
 paragraphs = split_into_paragraphs(raw_text)
 
@@ -42,7 +42,7 @@ for i, para in enumerate(paragraphs[:5]):
 import pandas as pd
 import json
 
-file_path = "副本20241210_Disassembly database.xlsx"
+file_path = "CapstoneProject/DisassemblyDB.xlsx"
 df = pd.read_excel(file_path)
 
 label_map = {
@@ -170,11 +170,12 @@ for r in results:
         })
 
 #store results for database input
-import pandas as pd
+import json
 
-re_df = pd.DataFrame(re_results)
-re_df.to_csv("relations.csv", index=False)
+with open("relations.json", "w", encoding="utf-8") as f:
+    json.dump(re_results, f, indent=2, ensure_ascii=False)
 
+print(f"  Saved {len(re_results)} relations to relations.json")
 
 entity_set = set()
 
@@ -185,9 +186,14 @@ def get_label(entity_text, entity_list):
     return "UNKNOWN"
 
 for r in re_results:
-    entity_set.add((r["head"], get_label(r["head"], r["text"])))
-    entity_set.add((r["tail"], get_label(r["tail"], r["text"])))
+    entities = results[r["paragraph_index"]]["entities"]
+    entity_set.add((r["head"], get_label(r["head"], entities)))
+    entity_set.add((r["tail"], get_label(r["tail"], entities)))
 
-nodes_df = pd.DataFrame(list(entity_set), columns=["id", "label"])
-nodes_df.to_csv("nodes.csv", index=False)
 
+nodes = [{"id": eid, "label": label} for eid, label in entity_set]
+
+with open("nodes.json", "w", encoding="utf-8") as f:
+    json.dump(nodes, f, indent=2, ensure_ascii=False)
+
+print(f"saved {len(nodes)} nodes to nodes.json")
