@@ -1,0 +1,478 @@
+[
+  {
+    "label": "COMPONENT_TYPE",
+    "pattern": "Discrete components"
+  },
+  {
+    "label": "COMPONENT_TYPE",
+    "pattern": "Parts of components"
+  },
+  {
+    "label": "COMPONENT_TYPE",
+    "pattern": "Virtual components"
+  },
+  {
+    "label": "STATE",
+    "pattern": "Not deformed"
+  },
+  {
+    "label": "STATE",
+    "pattern": "Reversibly deformed"
+  },
+  {
+    "label": "STATE",
+    "pattern": "Irreversibly deformed"
+  },
+  {
+    "label": "STATE",
+    "pattern": "Reversible connection (semi-reversible)"
+  },
+  {
+    "label": "STATE",
+    "pattern": "Irreversible connection"
+  },
+  {
+    "label": "STATE",
+    "pattern": "Irrversible"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Bundling"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Spring"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Screw"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Bolt"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Nut"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Washer"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Cotter pin"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Staple"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Rivet"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Adhesive"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Surface: mating"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Surface: press fit"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Snap fit"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Surface: mould"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Seam fold"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Seal"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Solder"
+  },
+  {
+    "label": "COMPONENT",
+    "pattern": "Weld"
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "shear cut"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "deform"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "pull"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "unscrew"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "drill"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "pry out"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "cut"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "shear"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "peel"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "chemical"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "remove"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "break"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "melt"
+      }
+    ]
+  },
+  {
+    "label": "METHOD",
+    "pattern": [
+      {
+        "LEMMA": "saw cut"
+      }
+    ]
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Single Blade"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Single Blades"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Plier"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Pliers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Screwdriver"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Screwdrivers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Handheld drill"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Handheld drills"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Wrench"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Wrenchs"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Drill and drill bit"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Drill and drill bits"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Cotter pin puller"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Cotter pin pullers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Needle-nose plier"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Needle-nose pliers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Flathead screwdriver"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Flathead screwdrivers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Basic Staple remover"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Basic Staple removers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Heavy-duty staple remover"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Heavy-duty staple removers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Needle-nose pliers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Rivet removal tool"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Rivet removal tools"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Dremel tool"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Dremel tools"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Chisel and hammer"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Chisel and hammers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Putty knife"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Putty knifes"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Heated knife"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Heated knifes"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Plastic scraper"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Plastic scrapers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Razer blade scraper"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Razer blade scrapers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Adhesive remover"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Adhesive removers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Pliers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Hammer"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Hammers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Chiesel and hammer"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Chiesel and hammers"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Heat gun"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Heat guns"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Rotary cutter"
+  },
+  {
+    "label": "TOOL",
+    "pattern": "Rotary cutters"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "2s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "8s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "5s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "6.5s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "4s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "10s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "6s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "7s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "3s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "15s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "9s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "5.5s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "12s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "22s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "45s"
+  },
+  {
+    "label": "DURATION",
+    "pattern": "8.75s"
+  }
+]
