@@ -1,0 +1,23 @@
+# ✅ Python bytecode/cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ✅ VSCode, Jupyter, system files
+*.DS_Store
+*.vscode/
+.ipynb_checkpoints/
+
+# ✅ Virtual environment
+venv/
+
+# ✅ Neo4j local persistent storage
+neo4j_data/
+
+# ✅ Environment secrets
+.env
+
+# ✅ Logs and temp files
+*.log
+*.tmp

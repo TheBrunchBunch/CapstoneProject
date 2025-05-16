@@ -1,0 +1,7 @@
+{"tool": "Screwdriver", "action": "Unscrew", "component": "Back Cover", "time": "30s", "source": "Manual A"}
+{"tool": "Tweezers", "action": "Remove", "component": "Battery", "time": "15s", "source": "Repair Guide B"}
+{"tool": "Heat Gun", "action": "Heat", "component": "Adhesive Layer", "time": "45s", "source": "Online Video"}
+{"tool": "Pry Tool", "action": "Pry Open", "component": "Screen Frame", "time": "25s", "source": "Disassembly Note"}
+{"tool": "Phillips Screwdriver", "action": "Loosen", "component": "Motherboard Screw", "time": "20s", "source": "Repair Wiki"}
+{"tool": "Brush", "action": "Clean", "component": "Cooling Fan", "time": "10s", "source": "Cleaning Manual"}
+{"tool": "Suction Cup", "action": "Lift", "component": "Glass Panel", "time": "18s", "source": "YouTube Demo"}
