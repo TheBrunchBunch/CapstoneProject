@@ -14,7 +14,7 @@ def get_info_from_qurey(query, save_path):
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
-        for _ in range(100):
+        for _ in range(10):
             article = next(search_results)
             writer.writerow({
                 'Title': article['bib']['title'],
