@@ -75,5 +75,3 @@ def main():
 
 
 main()
-# paper_url = "https://ieeexplore.ieee.org/abstract/document/9269520/"
-# upload_to_drive("test.pdf", folder_id, token, sci_hub_pdf.get_pdf(paper_url))
