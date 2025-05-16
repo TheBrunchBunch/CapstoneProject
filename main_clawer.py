@@ -22,7 +22,7 @@ def insert_into_mongodb(keyword, index, url):
         "index": index,
         "url": url
     }
-    if not collection.find_one({"keyword": keyword, "index": index, "url": url}):
+    if not collection.find_one({"keyword": keyword, "url": url}):
         collection.insert_one(doc)
     client.close()
 
