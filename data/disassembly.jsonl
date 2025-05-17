@@ -1,7 +1,8 @@
-{"tool": "Screwdriver", "action": "Unscrew", "component": "Back Cover", "time": "30s", "source": "Manual A"}
-{"tool": "Tweezers", "action": "Remove", "component": "Battery", "time": "15s", "source": "Repair Guide B"}
-{"tool": "Heat Gun", "action": "Heat", "component": "Adhesive Layer", "time": "45s", "source": "Online Video"}
-{"tool": "Pry Tool", "action": "Pry Open", "component": "Screen Frame", "time": "25s", "source": "Disassembly Note"}
-{"tool": "Phillips Screwdriver", "action": "Loosen", "component": "Motherboard Screw", "time": "20s", "source": "Repair Wiki"}
-{"tool": "Brush", "action": "Clean", "component": "Cooling Fan", "time": "10s", "source": "Cleaning Manual"}
-{"tool": "Suction Cup", "action": "Lift", "component": "Glass Panel", "time": "18s", "source": "YouTube Demo"}
+{ "group": "Disassemble Screen", "tool": "Screwdriver", "action": "Unscrew", "component": "Screen Screws", "source": "Manual A" }
+{ "group": "Disassemble Screen", "tool": "Pry Tool", "action": "Pry Open", "component": "Screen Frame", "source": "Manual A" }
+{ "group": "Disassemble Screen", "tool": "Suction Cup", "action": "Lift", "component": "Glass Panel", "source": "Manual A" }
+{ "group": "Remove Battery", "tool": "Screwdriver", "action": "Unscrew", "component": "Back Cover", "source": "Repair Guide B" }
+{ "group": "Remove Battery", "tool": "Tweezers", "action": "Disconnect", "component": "Battery Connector", "source": "Repair Guide B" }
+{ "group": "Remove Battery", "tool": "Pry Tool", "action": "Lift", "component": "Battery", "source": "Repair Guide B" }
+{ "group": "Clean Cooling Fan", "tool": "Brush", "action": "Brush Off", "component": "Fan Surface", "source": "Cleaning Doc C" }
+{ "group": "Clean Cooling Fan", "tool": "Air Blower", "action": "Blow", "component": "Fan Blades", "source": "Cleaning Doc C" }
