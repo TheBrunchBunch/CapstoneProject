@@ -1,8 +1,19 @@
-{ "group": "Disassemble Screen", "tool": "Screwdriver", "action": "Unscrew", "component": "Screen Screws", "source": "Manual A" }
-{ "group": "Disassemble Screen", "tool": "Pry Tool", "action": "Pry Open", "component": "Screen Frame", "source": "Manual A" }
-{ "group": "Disassemble Screen", "tool": "Suction Cup", "action": "Lift", "component": "Glass Panel", "source": "Manual A" }
-{ "group": "Remove Battery", "tool": "Screwdriver", "action": "Unscrew", "component": "Back Cover", "source": "Repair Guide B" }
-{ "group": "Remove Battery", "tool": "Tweezers", "action": "Disconnect", "component": "Battery Connector", "source": "Repair Guide B" }
-{ "group": "Remove Battery", "tool": "Pry Tool", "action": "Lift", "component": "Battery", "source": "Repair Guide B" }
-{ "group": "Clean Cooling Fan", "tool": "Brush", "action": "Brush Off", "component": "Fan Surface", "source": "Cleaning Doc C" }
-{ "group": "Clean Cooling Fan", "tool": "Air Blower", "action": "Blow", "component": "Fan Blades", "source": "Cleaning Doc C" }
+{ "group": "Back Cover", "tool": "Phillips Screwdriver", "action": "Unscrew Screws", "component": "Back Cover Screws", "source": "Repair Notes" }
+{ "group": "Back Cover", "tool": "Plastic Spudger", "action": "Pry Open Edges", "component": "Back Cover Panel", "source": "Repair Notes" }
+{ "group": "Back Cover", "tool": "Suction Tool", "action": "Lift Cover", "component": "Back Shell", "source": "Repair Notes" }
+
+{ "group": "Battery Module", "tool": "Hex Wrench", "action": "Loosen Holder", "component": "Battery Bracket", "source": "User Guide" }
+{ "group": "Battery Module", "tool": "Rubber Gloves", "action": "Disconnect Wires", "component": "Battery Wires", "source": "User Guide" }
+{ "group": "Battery Module", "tool": "Plastic Lifter", "action": "Remove Battery", "component": "Battery Pack", "source": "User Guide" }
+
+{ "group": "Cooling Fan", "tool": "Soft Brush", "action": "Sweep Dust", "component": "Fan Grille", "source": "Maintenance Tips" }
+{ "group": "Cooling Fan", "tool": "Compressed Air", "action": "Blow Blades", "component": "Fan Blades", "source": "Maintenance Tips" }
+{ "group": "Cooling Fan", "tool": "Cloth Wipe", "action": "Polish Frame", "component": "Fan Housing", "source": "Maintenance Tips" }
+
+{ "group": "SSD Drive", "tool": "Screwdriver", "action": "Remove Bracket", "component": "SSD Mount", "source": "Upgrade Manual" }
+{ "group": "SSD Drive", "tool": "Anti-Static Wristband", "action": "Insert SSD", "component": "SSD Slot", "source": "Upgrade Manual" }
+{ "group": "SSD Drive", "tool": "Metal Shield", "action": "Cover Drive", "component": "SSD Shield", "source": "Upgrade Manual" }
+
+{ "group": "Display Panel", "tool": "Opening Pick", "action": "Separate Frame", "component": "Display Border", "source": "Screen Repair Doc" }
+{ "group": "Display Panel", "tool": "Mini Driver", "action": "Unscrew Mounts", "component": "Display Screws", "source": "Screen Repair Doc" }
+{ "group": "Display Panel", "tool": "Grip Handle", "action": "Lift Panel", "component": "LCD Panel", "source": "Screen Repair Doc" }

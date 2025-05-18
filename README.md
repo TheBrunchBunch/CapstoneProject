@@ -29,6 +29,17 @@ This project uses Neo4j to construct a disassembly knowledge graph from structur
 - Visit http://localhost:7474
 - Login with neo4j / password123
 - Try the following Cypher queries:
+1. 
+MATCH (t:Task {name: "Back Cover"})-[:INCLUDES]->(a:Action)
+WHERE NOT ()-[:NEXT]->(a)
+WITH a AS start, t
+MATCH path = (start)-[:NEXT*0..]->(aN:Action)
+WHERE ALL(n IN nodes(path) WHERE (n)<-[:INCLUDES]-(t))
+WITH nodes(path) AS steps, t
+UNWIND steps AS step
+OPTIONAL MATCH (t)-[:INCLUDES]->(step)<-[:USED_TO]-(tool:Tool)
+OPTIONAL MATCH (t)-[:INCLUDES]->(step)-[:APPLIED_ON]->(comp:Component)
+RETURN step, tool, comp
 
 
 
