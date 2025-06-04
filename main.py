@@ -6,7 +6,8 @@ handler = DisassemblyGraph(
     data_path="data/disassembly.jsonl",
     neo4j_host=NEO4J_URI,
     neo4j_user=NEO4J_USER,
-    neo4j_password=NEO4J_PASSWORD
+    neo4j_password=NEO4J_PASSWORD,
+    strict_group=False  # ✅ 设置为 False，即使数据没有 group 也能运行
 )
 
 print("🔍 Initializing disassembly graph builder...")
@@ -24,9 +25,9 @@ handler.create_node("Action", actions)
 handler.create_graphrels(tools, components, actions, sources, relations)
 
 # Create task and :INCLUDES links
-handler.create_task_nodes()
+#handler.create_task_nodes()
 
 # Create :NEXT sequential edges
-handler.create_sequence_edges()
+#handler.create_sequence_edges()
 
 print("✅ Disassembly knowledge graph built successfully!")
