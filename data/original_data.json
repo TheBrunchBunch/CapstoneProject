@@ -1,0 +1,182 @@
+[
+  {
+    "tool": "Pneumatic drill",
+    "action": "Separate",
+    "component": "Aluminum rivet",
+    "source": "https://www.sciencedirect.com/science/article/pii/S2212827116001037"
+  },
+  {
+    "tool": "Pneumatic drill",
+    "action": "Separate",
+    "component": "Titanium rivet",
+    "source": "https://www.sciencedirect.com/science/article/pii/S2212827116001037"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "unscrewed",
+    "component": "M3 screw",
+    "source": "https://link.springer.com/chapter/10.1007/978-3-319-93399-3_37"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "UNSCREW",
+    "component": "screw",
+    "source": "https://link.springer.com/chapter/10.1007/978-3-319-93399-3_37"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "UNSCREW",
+    "component": "screw",
+    "source": "https://link.springer.com/chapter/10.1007/978-3-319-93399-3_37"
+  },
+  {
+    "tool": "Angle Grinder",
+    "action": "Cut",
+    "component": "Fastener",
+    "source": "https://www.sciencedirect.com/science/article/pii/S221282712030161X"
+  },
+  {
+    "tool": "Angle grinder",
+    "action": "Cutting",
+    "component": "Fastener",
+    "source": "https://www.sciencedirect.com/science/article/pii/S221282712030161X"
+  },
+  {
+    "tool": "Pry out subassembly out of the lower housing",
+    "action": "Pry",
+    "component": "Lower Housing",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Disassemble component 3 (1) Upper Housing",
+    "action": "Disassemble",
+    "component": "Component 3",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Unscrew rst of six front and back screws",
+    "action": "Unscrew",
+    "component": "Front and Back Screws",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Unscrew second of six front and back screws",
+    "action": "Unscrew",
+    "component": "Front and Back Screws",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Unscrew third of six front and back screws",
+    "action": "Unscrew",
+    "component": "Front and Back Screws",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Unscrew fourth of six front and back screws",
+    "action": "Unscrew",
+    "component": "Front and Back Screws",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Unscrew fth of six front and back screws",
+    "action": "Unscrew",
+    "component": "Front and Back Screws",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Pull out bushing plate",
+    "action": "Pull out",
+    "component": "bushing plate",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Pull out chuck assembly",
+    "action": "Pull out",
+    "component": "chuck assembly",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Pull out support plate",
+    "action": "Pull out",
+    "component": "support plate",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+  },
+  {
+    "tool": "Overhead winch",
+    "action": "Removal",
+    "component": "Top-mounted automobile engine",
+    "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356"
+  },
+  {
+    "tool": "Scissors",
+    "action": "Cut out",
+    "component": "Ribbon wire",
+    "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356"
+  },
+  {
+    "tool": "Lever",
+    "action": "Remove",
+    "component": "Circuit board",
+    "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356"
+  },
+  {
+    "tool": "Lever",
+    "action": "Break",
+    "component": "Bottom printer housing",
+    "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356"
+  },
+  {
+    "tool": "Pneumatic riveting gun",
+    "action": "hammered",
+    "component": "shank",
+    "source": "https://link.springer.com/article/10.1007/s00170-014-6113-z"
+  },
+  {
+    "tool": "Automotive riveting machine",
+    "action": "squeezed",
+    "component": "shank",
+    "source": "https://link.springer.com/article/10.1007/s00170-014-6113-z"
+  },
+  {
+    "tool": "Clamp",
+    "action": "Fix",
+    "component": "Rivet stem",
+    "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+  },
+  {
+    "tool": "Rivet gun",
+    "action": "Pull",
+    "component": "Rivet stem",
+    "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+  },
+  {
+    "tool": "Blank holder",
+    "action": "moves downward",
+    "component": "sheet",
+    "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+  },
+  {
+    "tool": "Punch",
+    "action": "pushes",
+    "component": "rivet",
+    "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+  },
+  {
+    "tool": "Blank holder",
+    "action": "Releases blank holder force",
+    "component": "",
+    "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+  },
+  {
+    "tool": "Drilling machine",
+    "action": "drill a hole",
+    "component": "lap area",
+    "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+  },
+  {
+    "tool": "Steel brush",
+    "action": "polish both sheets",
+    "component": "oxide layer",
+    "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+  }
+]

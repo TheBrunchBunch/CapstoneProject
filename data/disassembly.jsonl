@@ -1,19 +1,30 @@
-{ "group": "Back Cover", "tool": "Phillips Screwdriver", "action": "Unscrew Screws", "component": "Back Cover Screws", "source": "Repair Notes" }
-{ "group": "Back Cover", "tool": "Plastic Spudger", "action": "Pry Open Edges", "component": "Back Cover Panel", "source": "Repair Notes" }
-{ "group": "Back Cover", "tool": "Suction Tool", "action": "Lift Cover", "component": "Back Shell", "source": "Repair Notes" }
-
-{ "group": "Battery Module", "tool": "Hex Wrench", "action": "Loosen Holder", "component": "Battery Bracket", "source": "User Guide" }
-{ "group": "Battery Module", "tool": "Rubber Gloves", "action": "Disconnect Wires", "component": "Battery Wires", "source": "User Guide" }
-{ "group": "Battery Module", "tool": "Plastic Lifter", "action": "Remove Battery", "component": "Battery Pack", "source": "User Guide" }
-
-{ "group": "Cooling Fan", "tool": "Soft Brush", "action": "Sweep Dust", "component": "Fan Grille", "source": "Maintenance Tips" }
-{ "group": "Cooling Fan", "tool": "Compressed Air", "action": "Blow Blades", "component": "Fan Blades", "source": "Maintenance Tips" }
-{ "group": "Cooling Fan", "tool": "Cloth Wipe", "action": "Polish Frame", "component": "Fan Housing", "source": "Maintenance Tips" }
-
-{ "group": "SSD Drive", "tool": "Screwdriver", "action": "Remove Bracket", "component": "SSD Mount", "source": "Upgrade Manual" }
-{ "group": "SSD Drive", "tool": "Anti-Static Wristband", "action": "Insert SSD", "component": "SSD Slot", "source": "Upgrade Manual" }
-{ "group": "SSD Drive", "tool": "Metal Shield", "action": "Cover Drive", "component": "SSD Shield", "source": "Upgrade Manual" }
-
-{ "group": "Display Panel", "tool": "Opening Pick", "action": "Separate Frame", "component": "Display Border", "source": "Screen Repair Doc" }
-{ "group": "Display Panel", "tool": "Mini Driver", "action": "Unscrew Mounts", "component": "Display Screws", "source": "Screen Repair Doc" }
-{ "group": "Display Panel", "tool": "Grip Handle", "action": "Lift Panel", "component": "LCD Panel", "source": "Screen Repair Doc" }
+{"tool": "Pneumatic drill", "action": "Separate", "component": "Aluminum rivet", "source": "https://www.sciencedirect.com/science/article/pii/S2212827116001037", "group": "Task-1"}
+{"tool": "Pneumatic drill", "action": "Separate", "component": "Titanium rivet", "source": "https://www.sciencedirect.com/science/article/pii/S2212827116001037", "group": "Task-1"}
+{"tool": "Screwdriver", "action": "unscrewed", "component": "M3 screw", "source": "https://link.springer.com/chapter/10.1007/978-3-319-93399-3_37", "group": "Task-1"}
+{"tool": "Screwdriver", "action": "UNSCREW", "component": "screw", "source": "https://link.springer.com/chapter/10.1007/978-3-319-93399-3_37", "group": "Task-1"}
+{"tool": "Screwdriver", "action": "UNSCREW", "component": "screw", "source": "https://link.springer.com/chapter/10.1007/978-3-319-93399-3_37", "group": "Task-1"}
+{"tool": "Angle Grinder", "action": "Cut", "component": "Fastener", "source": "https://www.sciencedirect.com/science/article/pii/S221282712030161X", "group": "Task-1"}
+{"tool": "Angle grinder", "action": "Cutting", "component": "Fastener", "source": "https://www.sciencedirect.com/science/article/pii/S221282712030161X", "group": "Task-1"}
+{"tool": "Pry out subassembly out of the lower housing", "action": "Pry", "component": "Lower Housing", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Disassemble component 3 (1) Upper Housing", "action": "Disassemble", "component": "Component 3", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Unscrew rst of six front and back screws", "action": "Unscrew", "component": "Front and Back Screws", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Unscrew second of six front and back screws", "action": "Unscrew", "component": "Front and Back Screws", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Unscrew third of six front and back screws", "action": "Unscrew", "component": "Front and Back Screws", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Unscrew fourth of six front and back screws", "action": "Unscrew", "component": "Front and Back Screws", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Unscrew fth of six front and back screws", "action": "Unscrew", "component": "Front and Back Screws", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Pull out bushing plate", "action": "Pull out", "component": "bushing plate", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Pull out chuck assembly", "action": "Pull out", "component": "chuck assembly", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Pull out support plate", "action": "Pull out", "component": "support plate", "source": "https://www.sciencedirect.com/science/article/pii/S0169814103000672", "group": "Task-1"}
+{"tool": "Overhead winch", "action": "Removal", "component": "Top-mounted automobile engine", "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356", "group": "Task-1"}
+{"tool": "Scissors", "action": "Cut out", "component": "Ribbon wire", "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356", "group": "Task-1"}
+{"tool": "Lever", "action": "Remove", "component": "Circuit board", "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356", "group": "Task-1"}
+{"tool": "Lever", "action": "Break", "component": "Bottom printer housing", "source": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356", "group": "Task-1"}
+{"tool": "Pneumatic riveting gun", "action": "hammered", "component": "shank", "source": "https://link.springer.com/article/10.1007/s00170-014-6113-z", "group": "Task-1"}
+{"tool": "Automotive riveting machine", "action": "squeezed", "component": "shank", "source": "https://link.springer.com/article/10.1007/s00170-014-6113-z", "group": "Task-1"}
+{"tool": "Clamp", "action": "Fix", "component": "Rivet stem", "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w", "group": "Task-1"}
+{"tool": "Rivet gun", "action": "Pull", "component": "Rivet stem", "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w", "group": "Task-1"}
+{"tool": "Blank holder", "action": "moves downward", "component": "sheet", "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w", "group": "Task-1"}
+{"tool": "Punch", "action": "pushes", "component": "rivet", "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w", "group": "Task-1"}
+{"tool": "Blank holder", "action": "Releases blank holder force", "component": "", "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w", "group": "Task-1"}
+{"tool": "Drilling machine", "action": "drill a hole", "component": "lap area", "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w", "group": "Task-1"}
+{"tool": "Steel brush", "action": "polish both sheets", "component": "oxide layer", "source": "https://link.springer.com/article/10.1007/s00170-021-07689-w", "group": "Task-1"}
