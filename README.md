@@ -12,7 +12,9 @@ CapstoneProject/ \
 │   └── config.py                # Reads Neo4j credentials from .env \
 ├── main.py                      # Execution entry \
 ├── .env                         # Contains Neo4j URI/user/password (ignored) \
+├── user interface               # frontend+backend part
 └── requirements.txt             # Python dependencies \
+
 
 ## Part1: Web Crawler for Google Scholar and Google Search
 This module is a modular web crawler and paper downloader designed to collect and process industrial disassembly–related documents using Google Search, Google Scholar, and Sci-Hub. The results are stored in MongoDB and optionally uploaded to Google Drive.
@@ -173,3 +175,12 @@ RETURN s.name   AS Source;
 - If the data **does not include** the `group` field:
     - Set `strict_group=False` (default)
     - Keep the above lines **commented out**, so the graph builder will skip sequential modeling.
+      
+### 5. User Interface
+- Open any IDE that contains python interpreter, such as, VScode or Pycharm.
+Type in two instruct in the terminal, run the file "App.tsx":
+   - npm install
+   - npm run dev
+Webpage can be view in : http://localhost:5173/ since we don't have server
+
+  
