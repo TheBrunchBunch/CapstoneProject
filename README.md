@@ -30,7 +30,7 @@ This project uses Neo4j to construct a disassembly knowledge graph from structur
 - Login with neo4j / password123 (you can change to your own config)
 - Try the following Cypher queries:
 1. Retrieve all nodes (and their relationships)：MATCH (n) RETURN n LIMIT 100;
-2. Find all Tool → Action → Component paths
+2. Find all Tool → Action → Component paths: 
 MATCH (t:Tool)-[:USED_TO]->(a:Action)-[:APPLIED_ON]->(c:Component)
 RETURN t.name   AS Tool,
      a.name   AS Action,
@@ -41,18 +41,18 @@ MATCH (a:Action)-[:REQUIRES_SOURCE]->(s:Source)
 RETURN a.name   AS Action,
        s.name   AS Source
 LIMIT 50;
-4. For a given tool, list which components it disassembles
+4. For a given tool, list which components it disassembles: 
 MATCH (t:Tool {name: "Screwdriver"})
       -[:USED_TO]->(a:Action)
       -[:APPLIED_ON]->(c:Component)
 RETURN a.name   AS Action,
        c.name   AS Component;
-5. For a given component, list which actions disassemble it
+5. For a given component, list which actions disassemble it: 
 MATCH (a:Action)
       -[:APPLIED_ON]->(c:Component {name: "screw"})
 RETURN a.name   AS Action,
        c.name   AS Component;
-6. Find the source literature for a specific action
+6. Find the source literature for a specific action: 
 MATCH (a:Action {name: "UNSCREW"})
       -[:REQUIRES_SOURCE]->(s:Source)
 RETURN s.name   AS Source;
