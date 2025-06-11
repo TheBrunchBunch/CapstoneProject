@@ -2,8 +2,8 @@ import requests
 from pymongo import MongoClient
 
 # your Google API key and custom search engine ID
-API_KEY = "AIzaSyCprzBHuE3zPxyPtbS73OwYs_fqXGjCZto"        # replace with your API key
-SEARCH_ENGINE_ID = "31e2bc994edf1435e"  # replace with your search engine ID
+API_KEY = "your api key"        # replace with your API key
+SEARCH_ENGINE_ID = "your search engine id"  # replace with your search engine ID
 
 def main():
     keyword = input("Please Input Keyword: ").strip()

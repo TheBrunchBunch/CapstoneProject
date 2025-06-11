@@ -10,7 +10,7 @@ from pymongo import MongoClient
 # Drive API 3 token, for uploading files to Google Drive from this link: https://developers.google.com/oauthplayground
 token = "your own key"
 # instance of the folder where the files will be uploaded
-folder_id = "1v2yiyaHoPmF4rzGl7ZTKmXcOMXjJxZ7p"
+folder_id = "your folder id"
 
 
 def insert_into_mongodb(keyword, index, url):
