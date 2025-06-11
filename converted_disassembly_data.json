@@ -1,0 +1,722 @@
+[
+  {
+    "tool": "Dremel",
+    "action": "Remove Screw",
+    "component": "Evap Fan",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Wet vac",
+    "action": "Empty",
+    "component": "Water",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Crane",
+    "action": "Lift or move",
+    "component": "Compressor",
+    "source": "https://screwcompressorsspecialist.com/"
+  },
+  {
+    "tool": "Forklift",
+    "action": "Pick up",
+    "component": "Compressor",
+    "source": "https://screwcompressorsspecialist.com/"
+  },
+  {
+    "tool": "Dremel",
+    "action": "remove screw",
+    "component": "evap fan",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Air",
+    "action": "hammer",
+    "component": "powered punch \u2013 Punches \u2013 [Fuel Injector]",
+    "source": "https://miltonindustries.com/products/power-stroke-powerpac-ford-67-bolt-repair-fuel-injector-puller-combo-xsz7k"
+  },
+  {
+    "tool": "Air",
+    "action": "hammer",
+    "component": "powered punch \u2013 Strikes \u2013 Fuel Injector",
+    "source": "https://miltonindustries.com/products/power-stroke-powerpac-ford-67-bolt-repair-fuel-injector-puller-combo-xsz7k"
+  },
+  {
+    "tool": "Socket",
+    "action": "[ROCKING]",
+    "component": "Nut/Bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "6",
+    "action": "point wrench",
+    "component": "Tightening, Loosening \u2013 Nut/Bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Socket",
+    "action": "Tightening, Loosening",
+    "component": "Nut/Bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Socket/wrench",
+    "action": "rock in and out",
+    "component": "binding force",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Socket/wrench with Breaker Bar",
+    "action": "use leverage to remove",
+    "component": "stubborn bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Screw",
+    "action": "Tighten",
+    "component": "Nut",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Nut splitter",
+    "action": "Slip",
+    "component": "Nut",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Nut splitter",
+    "action": "Tighten",
+    "component": "Wedge",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Nut splitter",
+    "action": "Crank",
+    "component": "Nut",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Nut splitter",
+    "action": "Back off",
+    "component": "\u2013",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Angle grinder",
+    "action": "CUT HEAD OFF",
+    "component": "BOLT",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Angle grinder",
+    "action": "GRIND NUT AND BOLT",
+    "component": "NUT",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Nut splitter",
+    "action": "PULL OUT",
+    "component": "NUT",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Dremel",
+    "action": "Remove screw",
+    "component": "Back panel",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "TOOL",
+    "action": "DISASSEMBLE",
+    "component": "DRYER",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "TOOL",
+    "action": "OHM",
+    "component": "CONTROL BOARD",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Spanner wrench",
+    "action": "Remove nut",
+    "component": "Threaded antenna shaft",
+    "source": "https://www.twowayradioforum.com/t/icom-ic-f3001f4001-radio-disassembly-and-review/5910"
+  },
+  {
+    "tool": "Pliers",
+    "action": "Twist counter",
+    "component": "clockwise \u2013 Silver nut",
+    "source": "https://www.twowayradioforum.com/t/icom-ic-f3001f4001-radio-disassembly-and-review/5910"
+  },
+  {
+    "tool": "Small flat",
+    "action": "head screwdriver",
+    "component": "Pry bottom chassis out \u2013 Plastic housing",
+    "source": "https://www.twowayradioforum.com/t/icom-ic-f3001f4001-radio-disassembly-and-review/5910"
+  },
+  {
+    "tool": "Safety device",
+    "action": "deflected",
+    "component": "ejection",
+    "source": "https://woodcousa.com/disassembly-break-out-of-made-up-flanges/"
+  },
+  {
+    "tool": "Duct tape",
+    "action": "wrapped",
+    "component": "gap",
+    "source": "https://woodcousa.com/disassembly-break-out-of-made-up-flanges/"
+  },
+  {
+    "tool": "Dremel",
+    "action": "remove screw",
+    "component": "evap fan",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Pliers",
+    "action": "Pull",
+    "component": "Cotter Pin",
+    "source": "https://blog.mfsupply.com/category/pins/hair-pin-clip/"
+  },
+  {
+    "tool": "Hammer",
+    "action": "Strikes",
+    "component": "Projection",
+    "source": "https://www.premiumparts.com/blog/an-ultimate-guide-to-rivet-their-types-and-applications"
+  },
+  {
+    "tool": "Hammer",
+    "action": "Forms the end",
+    "component": "Shank",
+    "source": "https://www.premiumparts.com/blog/an-ultimate-guide-to-rivet-their-types-and-applications"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "Unscrew",
+    "component": "Bluetooth and wifi aerials",
+    "source": "https://gtg.benabraham.net/what-i-learned-about-repair-by-disassembling-my-imac/"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "Unscrew",
+    "component": "Driver bits",
+    "source": "https://gtg.benabraham.net/what-i-learned-about-repair-by-disassembling-my-imac/"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "Buy/SOURCE TOOLS",
+    "component": "Torx drivers",
+    "source": "https://gtg.benabraham.net/what-i-learned-about-repair-by-disassembling-my-imac/"
+  },
+  {
+    "tool": "Heat gun",
+    "action": "heat",
+    "component": "adhesive",
+    "source": "https://www.gluegun.com/blogs/news/industrial-glue-removal-101-tips-tricks-more"
+  },
+  {
+    "tool": "Hair dryer",
+    "action": "heat",
+    "component": "adhesive",
+    "source": "https://www.gluegun.com/blogs/news/industrial-glue-removal-101-tips-tricks-more"
+  },
+  {
+    "tool": "Putty knife",
+    "action": "scrape",
+    "component": "adhesive",
+    "source": "https://www.gluegun.com/blogs/news/industrial-glue-removal-101-tips-tricks-more"
+  },
+  {
+    "tool": "1000# sandpaper",
+    "action": "removal",
+    "component": "burr",
+    "source": "https://cjme.springeropen.com/articles/10.1186/s10033-023-00885-7"
+  },
+  {
+    "tool": "Hydraulic press",
+    "action": "Force shaft into hole",
+    "component": "",
+    "source": "https://at-machining.com/tolerance-press-fit/"
+  },
+  {
+    "tool": "Drill",
+    "action": "Cut the hole with threads for the final screw",
+    "component": "",
+    "source": "https://endeavor3d.com/designing-mjf-parts-with-inserts-threads-and-snap-fits/"
+  },
+  {
+    "tool": "Heat",
+    "action": "Apply localized heat",
+    "component": "Components",
+    "source": "https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-680/BP000000153464.html"
+  },
+  {
+    "tool": "Force",
+    "action": "Apply force",
+    "component": "Components",
+    "source": "https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-680/BP000000153464.html"
+  },
+  {
+    "tool": "Ejector pin pullers",
+    "action": "Pull",
+    "component": "Ejector pins",
+    "source": "https://firstmold.com/tips/injection-mold-repair/"
+  },
+  {
+    "tool": "Converts",
+    "action": "takes out",
+    "component": "plastic stop component",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Converts",
+    "action": "takes out",
+    "component": "plastic stop component",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Presses",
+    "action": "pushes",
+    "component": "parts",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "The 6 disassembly rods",
+    "action": "handle",
+    "component": "nearly all tube diameters and parts configurations",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Disassembly press",
+    "action": "Presses out parts with 7mm mechanisms",
+    "component": "Plastic stop component",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Disassembly press",
+    "action": "Takes out plastic stop component",
+    "component": "",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Dedicated disassembly bushing",
+    "action": "disassembles",
+    "component": "7mm mechanisms",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Soft grip tube and V profile clamp",
+    "action": "protects",
+    "component": "parts",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Sanitary type can opener",
+    "action": "Cut out the centre section of the can end",
+    "component": "Can end",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Tin snips",
+    "action": "Cut out the centre section of the can end",
+    "component": "Can end",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Nippers",
+    "action": "Remove the remainder of the can end",
+    "component": "Can end",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Dremel",
+    "action": "Remove screw",
+    "component": "Evap fan",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Dremel",
+    "action": "Remove screw",
+    "component": "Back panel",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "Stripped",
+    "component": "Screw",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Built",
+    "action": "in oil rail drain",
+    "component": "Draining oil from compressor during disassembly",
+    "source": "https://screwcompressorsspecialist.com/"
+  },
+  {
+    "tool": "Dremel",
+    "action": "Remove screw",
+    "component": "Evap fan",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Wet vac",
+    "action": "Empty water from",
+    "component": "Drain",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "ProMAXX Tool",
+    "action": "Tighten the flange",
+    "component": "Fuel injector passage",
+    "source": "https://miltonindustries.com/products/power-stroke-powerpac-ford-67-bolt-repair-fuel-injector-puller-combo-xsz7k"
+  },
+  {
+    "tool": "ProMAXX Tool",
+    "action": "Machine the old fastener out",
+    "component": "Old fastener",
+    "source": "https://miltonindustries.com/products/power-stroke-powerpac-ford-67-bolt-repair-fuel-injector-puller-combo-xsz7k"
+  },
+  {
+    "tool": "6",
+    "action": "point wrench or socket",
+    "component": "[ACTION] \u2013 [COMPONENT]",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "6",
+    "action": "point socket/wrench",
+    "component": "[ROCK] \u2013 [BOLT]",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "6",
+    "action": "point socket/wrench",
+    "component": "[ROCK] \u2013 [BOLT]",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Propane torch",
+    "action": "Heat",
+    "component": "Bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Propane torch",
+    "action": "Remove heat",
+    "component": "Bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Propane torch",
+    "action": "Pour warm water on",
+    "component": "Bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Breaker bar",
+    "action": "Turn",
+    "component": "Bolt",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Nut Splitter",
+    "action": "Slipped over seized nut",
+    "component": "Seized Nut",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Nut Splitter",
+    "action": "Screw tightened",
+    "component": "Nut Splitter",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Angle grinder",
+    "action": "CUT OFF HEAD",
+    "component": "BOLT",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Angle grinder",
+    "action": "GRIND NUT AND BOLT",
+    "component": "NUT",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Wire brush",
+    "action": "CLEAN",
+    "component": "Hex portion",
+    "source": "https://www.instructables.com/How-to-remove-a-stuborn-nutbolt/"
+  },
+  {
+    "tool": "Dremel",
+    "action": "Remove screw",
+    "component": "Evap fan",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Spanner wrench",
+    "action": "remove nut",
+    "component": "threaded antenna shaft",
+    "source": "https://www.twowayradioforum.com/t/icom-ic-f3001f4001-radio-disassembly-and-review/5910"
+  },
+  {
+    "tool": "Pliers",
+    "action": "twist counter",
+    "component": "clockwise \u2013 silver nut",
+    "source": "https://www.twowayradioforum.com/t/icom-ic-f3001f4001-radio-disassembly-and-review/5910"
+  },
+  {
+    "tool": "Small flat",
+    "action": "head screwdriver",
+    "component": "pry bottom of chassis \u2013 plastic housing",
+    "source": "https://www.twowayradioforum.com/t/icom-ic-f3001f4001-radio-disassembly-and-review/5910"
+  },
+  {
+    "tool": "Pliers",
+    "action": "catch indents",
+    "component": "silver nut",
+    "source": "https://www.twowayradioforum.com/t/icom-ic-f3001f4001-radio-disassembly-and-review/5910"
+  },
+  {
+    "tool": "Dremel",
+    "action": "Remove Screw",
+    "component": "Evap Fan",
+    "source": "https://www.reddit.com/r/Appliances/comments/188czyo/most_appliance_repair_companies_dont_ever_fix/"
+  },
+  {
+    "tool": "Adhesive adjustable aluminum clamp",
+    "action": "Remove nut",
+    "component": "Adhesive adjustable cable clamp",
+    "source": "https://www.isc-sl.com/releasable-snap-rivet-bevelled-head/mrmhv/"
+  },
+  {
+    "tool": "Cable tie",
+    "action": "Release tension",
+    "component": "Cable tie flat head",
+    "source": "https://www.isc-sl.com/releasable-snap-rivet-bevelled-head/mrmhv/"
+  },
+  {
+    "tool": "Cable tie mount",
+    "action": "Remove mounting clip",
+    "component": "Cable tie with fin clip base",
+    "source": "https://www.isc-sl.com/releasable-snap-rivet-bevelled-head/mrmhv/"
+  },
+  {
+    "tool": "Cable tie with screw fixing system not reusable",
+    "action": "Break lock",
+    "component": "Cable tie with threaded fastening to fix",
+    "source": "https://www.isc-sl.com/releasable-snap-rivet-bevelled-head/mrmhv/"
+  },
+  {
+    "tool": "Hammer",
+    "action": "Struck",
+    "component": "Projection",
+    "source": "https://www.premiumparts.com/blog/an-ultimate-guide-to-rivet-their-types-and-applications"
+  },
+  {
+    "tool": "Hammer",
+    "action": "Formed",
+    "component": "End",
+    "source": "https://www.premiumparts.com/blog/an-ultimate-guide-to-rivet-their-types-and-applications"
+  },
+  {
+    "tool": "Use normal tools",
+    "action": "break free",
+    "component": "bolt",
+    "source": "https://permabond.com/remove-industrial-adhesive/"
+  },
+  {
+    "tool": "Use a metal brush",
+    "action": "thoroughly remove adhesive (pipe sealant)",
+    "component": "pipe",
+    "source": "https://permabond.com/remove-industrial-adhesive/"
+  },
+  {
+    "tool": "Scrape the gasket",
+    "action": "",
+    "component": "form in place gasket",
+    "source": "https://permabond.com/remove-industrial-adhesive/"
+  },
+  {
+    "tool": "Metal Spatula",
+    "action": "[GENTLY]",
+    "component": "Soft Excess",
+    "source": "https://permabond.com/remove-industrial-adhesive/"
+  },
+  {
+    "tool": "Paper Towel",
+    "action": "[WIPING]",
+    "component": "Joint",
+    "source": "https://permabond.com/remove-industrial-adhesive/"
+  },
+  {
+    "tool": "CUTTER",
+    "action": "CUT OFF",
+    "component": "ADHESIVE STRIP",
+    "source": "https://gtg.benabraham.net/what-i-learned-about-repair-by-disassembling-my-imac/"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "Remove",
+    "component": "Screws",
+    "source": "https://gtg.benabraham.net/what-i-learned-about-repair-by-disassembling-my-imac/"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "Remove",
+    "component": "Screws",
+    "source": "https://gtg.benabraham.net/what-i-learned-about-repair-by-disassembling-my-imac/"
+  },
+  {
+    "tool": "Screwdriver",
+    "action": "Remove",
+    "component": "Screws",
+    "source": "https://gtg.benabraham.net/what-i-learned-about-repair-by-disassembling-my-imac/"
+  },
+  {
+    "tool": "1000# sandpaper",
+    "action": "removal",
+    "component": "burr",
+    "source": "https://cjme.springeropen.com/articles/10.1186/s10033-023-00885-7"
+  },
+  {
+    "tool": "Mechanical press",
+    "action": "Apply force",
+    "component": "Press",
+    "source": "https://www.hlc-metalparts.com/news/press-fit-a-comprehensive-guide-80325696.html"
+  },
+  {
+    "tool": "Hot press",
+    "action": "Heat/cool shaft parts",
+    "component": "Shrink",
+    "source": "https://www.hlc-metalparts.com/news/press-fit-a-comprehensive-guide-80325696.html"
+  },
+  {
+    "tool": "Disassembly tool module",
+    "action": "[ACTION]",
+    "component": "snap-fit cover",
+    "source": "https://link.springer.com/article/10.1007/s00170-013-5174-8"
+  },
+  {
+    "tool": "Disassembly tool module",
+    "action": "[ACTION]",
+    "component": "batteries",
+    "source": "https://link.springer.com/article/10.1007/s00170-013-5174-8"
+  },
+  {
+    "tool": "Ejector pin pullers",
+    "action": "[ ACTION ]",
+    "component": "ejector pins",
+    "source": "https://firstmold.com/tips/injection-mold-repair/"
+  },
+  {
+    "tool": "Installation tools",
+    "action": "[ ACTION ]",
+    "component": "ejector system",
+    "source": "https://firstmold.com/tips/injection-mold-repair/"
+  },
+  {
+    "tool": "Hammers",
+    "action": "[ ACTION ]",
+    "component": "parts with burrs or sharp edges",
+    "source": "https://firstmold.com/tips/injection-mold-repair/"
+  },
+  {
+    "tool": "Convert",
+    "action": "Remove",
+    "component": "Plastic stop component",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Presses out",
+    "action": "Parts",
+    "component": "[No specific component mentioned]",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Pushes",
+    "action": "Parts",
+    "component": "[No specific component mentioned]",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Plastic stop component",
+    "action": "Taken out",
+    "component": "",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Locking lever",
+    "action": "Loosened",
+    "component": "Rod",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Converts",
+    "action": "takes out",
+    "component": "plastic stop component",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Presses",
+    "action": "presses out",
+    "component": "parts",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "The 6 disassembly rods",
+    "action": "pushes",
+    "component": "parts out the pen tube",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "[DISASSEMBLY BUSHING]",
+    "action": "Lets you disassemble",
+    "component": "7mm pen",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "[DISASSEMBLY BUSHING]",
+    "action": "Lets you disassemble",
+    "component": "7mm pen",
+    "source": "https://www.pennstateind.com/store/PENPRESSXL.html"
+  },
+  {
+    "tool": "Load",
+    "action": "Apply vertically",
+    "component": "Base plate",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Seaming chuck",
+    "action": "Clamp on",
+    "component": "Can body",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Tucks",
+    "action": "The end curl under",
+    "component": "Can flange",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Sanitary type can opener",
+    "action": "Cut out the centre section of the can end",
+    "component": "Can end",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Tin snips",
+    "action": "Cut out the centre section of the can end",
+    "component": "Can end",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  },
+  {
+    "tool": "Nippers",
+    "action": "Remove the remainder of the can end",
+    "component": "Can end",
+    "source": "http://inspection.canada.ca/en/preventive-controls/controls-food/metal-can-defects"
+  }
+]

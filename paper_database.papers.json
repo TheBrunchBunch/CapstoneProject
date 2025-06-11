@@ -1,0 +1,1440 @@
+[{
+  "_id": {
+    "$oid": "682724addc89f067ec8c4472"
+  },
+  "keyword": "Bolt",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0143974X24004541"
+},
+{
+  "_id": {
+    "$oid": "682724b1dc89f067ec8c4474"
+  },
+  "keyword": "Bolt",
+  "index": 1,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0278612502801704"
+},
+{
+  "_id": {
+    "$oid": "682724bcdc89f067ec8c4476"
+  },
+  "keyword": "Bolt",
+  "index": 2,
+  "url": "https://www.atlantis-press.com/proceedings/meic-14/15156"
+},
+{
+  "_id": {
+    "$oid": "682724bfdc89f067ec8c4478"
+  },
+  "keyword": "Bolt",
+  "index": 3,
+  "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dc60ec20d749d2fb298f0b75d7336f517144f5ca#page=26"
+},
+{
+  "_id": {
+    "$oid": "682724c3dc89f067ec8c447a"
+  },
+  "keyword": "Bolt",
+  "index": 4,
+  "url": "https://link.springer.com/chapter/10.1007/978-981-99-6501-4_43"
+},
+{
+  "_id": {
+    "$oid": "682724c6dc89f067ec8c447c"
+  },
+  "keyword": "Bolt",
+  "index": 5,
+  "url": "https://ascelibrary.org/doi/abs/10.1061/JMENEA.MEENG-6243"
+},
+{
+  "_id": {
+    "$oid": "682724cadc89f067ec8c447e"
+  },
+  "keyword": "Bolt",
+  "index": 6,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+},
+{
+  "_id": {
+    "$oid": "682724d5dc89f067ec8c4480"
+  },
+  "keyword": "Bolt",
+  "index": 7,
+  "url": "https://ieeexplore.ieee.org/abstract/document/10773368/"
+},
+{
+  "_id": {
+    "$oid": "682724d9dc89f067ec8c4482"
+  },
+  "keyword": "Bolt",
+  "index": 8,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827124007686"
+},
+{
+  "_id": {
+    "$oid": "682724dddc89f067ec8c4484"
+  },
+  "keyword": "Bolt",
+  "index": 9,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/0954482031000150152"
+},
+{
+  "_id": {
+    "$oid": "682726259db821373a74c1a4"
+  },
+  "keyword": "Bundling",
+  "index": 0,
+  "url": "https://www.emerald.com/insight/content/doi/10.1108/01443571011012370/full/html"
+},
+{
+  "_id": {
+    "$oid": "682726319db821373a74c1a6"
+  },
+  "keyword": "Bundling",
+  "index": 1,
+  "url": "https://peer.asee.org/product-based-learning-bundling-goods-and-services-for-an-integrated-context-rich-industrial-engineering-curriculum"
+},
+{
+  "_id": {
+    "$oid": "682726349db821373a74c1a8"
+  },
+  "keyword": "Bundling",
+  "index": 2,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356"
+},
+{
+  "_id": {
+    "$oid": "6827263f9db821373a74c1aa"
+  },
+  "keyword": "Bundling",
+  "index": 3,
+  "url": "https://pubs.acs.org/doi/abs/10.1021/es0345423"
+},
+{
+  "_id": {
+    "$oid": "682726499db821373a74c1ac"
+  },
+  "keyword": "Bundling",
+  "index": 4,
+  "url": "https://www.emerald.com/insight/content/doi/10.1108/JMTM-07-2023-0299/full/html"
+},
+{
+  "_id": {
+    "$oid": "6827264d9db821373a74c1ae"
+  },
+  "keyword": "Bundling",
+  "index": 5,
+  "url": "https://ieeexplore.ieee.org/abstract/document/10106599/"
+},
+{
+  "_id": {
+    "$oid": "682726509db821373a74c1b0"
+  },
+  "keyword": "Bundling",
+  "index": 6,
+  "url": "https://link.springer.com/article/10.1007/s13243-018-0059-5"
+},
+{
+  "_id": {
+    "$oid": "6827265c9db821373a74c1b2"
+  },
+  "keyword": "Bundling",
+  "index": 7,
+  "url": "https://pubs.rsc.org/en/content/articlehtml/2013/ta/c2ta00382a"
+},
+{
+  "_id": {
+    "$oid": "682726679db821373a74c1b4"
+  },
+  "keyword": "Bundling",
+  "index": 8,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0301462211000299"
+},
+{
+  "_id": {
+    "$oid": "682726729db821373a74c1b6"
+  },
+  "keyword": "Bundling",
+  "index": 9,
+  "url": "https://nuclearfaq.ca/malkoskie_cobalt_paper.pdf"
+},
+{
+  "_id": {
+    "$oid": "682728f13ca39e941e722916"
+  },
+  "keyword": "Spring",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2215098619305956"
+},
+{
+  "_id": {
+    "$oid": "682728fc3ca39e941e722918"
+  },
+  "keyword": "Spring",
+  "index": 1,
+  "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dc60ec20d749d2fb298f0b75d7336f517144f5ca#page=26"
+},
+{
+  "_id": {
+    "$oid": "682728ff3ca39e941e72291a"
+  },
+  "keyword": "Spring",
+  "index": 2,
+  "url": "https://link.springer.com/article/10.1007/s00170-005-0042-9"
+},
+{
+  "_id": {
+    "$oid": "6827290a3ca39e941e72291c"
+  },
+  "keyword": "Spring",
+  "index": 3,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+},
+{
+  "_id": {
+    "$oid": "682729143ca39e941e72291e"
+  },
+  "keyword": "Spring",
+  "index": 4,
+  "url": "https://ieeexplore.ieee.org/abstract/document/765867/"
+},
+{
+  "_id": {
+    "$oid": "682729203ca39e941e722920"
+  },
+  "keyword": "Spring",
+  "index": 5,
+  "url": "https://search.proquest.com/openview/33493bad047527d53db3cf85762aac59/1.pdf?pq-origsite=gscholar&cbl=182"
+},
+{
+  "_id": {
+    "$oid": "682729233ca39e941e722922"
+  },
+  "keyword": "Spring",
+  "index": 6,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0959652616316419"
+},
+{
+  "_id": {
+    "$oid": "6827292e3ca39e941e722924"
+  },
+  "keyword": "Spring",
+  "index": 7,
+  "url": "https://www.sciencedirect.com/science/article/pii/S1474034618302659"
+},
+{
+  "_id": {
+    "$oid": "6827293b3ca39e941e722926"
+  },
+  "keyword": "Spring",
+  "index": 8,
+  "url": "https://ieeexplore.ieee.org/abstract/document/1322724/"
+},
+{
+  "_id": {
+    "$oid": "682729453ca39e941e722928"
+  },
+  "keyword": "Spring",
+  "index": 9,
+  "url": "https://www.emerald.com/insight/content/doi/10.1108/01445151211198683/full/html"
+},
+{
+  "_id": {
+    "$oid": "68272964d65f589e534ef96f"
+  },
+  "keyword": "Screw",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827122000014"
+},
+{
+  "_id": {
+    "$oid": "68272967d65f589e534ef971"
+  },
+  "keyword": "Screw",
+  "index": 1,
+  "url": "https://link.springer.com/chapter/10.1007/978-981-99-6501-4_43"
+},
+{
+  "_id": {
+    "$oid": "6827296bd65f589e534ef973"
+  },
+  "keyword": "Screw",
+  "index": 2,
+  "url": "https://www.sciencedirect.com/science/article/pii/S095965262400310X"
+},
+{
+  "_id": {
+    "$oid": "6827296ed65f589e534ef975"
+  },
+  "keyword": "Screw",
+  "index": 3,
+  "url": "https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/145/3/031008/1148469"
+},
+{
+  "_id": {
+    "$oid": "68272972d65f589e534ef977"
+  },
+  "keyword": "Screw",
+  "index": 4,
+  "url": "https://link.springer.com/chapter/10.1007/978-3-319-93399-3_37"
+},
+{
+  "_id": {
+    "$oid": "6827297dd65f589e534ef979"
+  },
+  "keyword": "Screw",
+  "index": 5,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0278612524000918"
+},
+{
+  "_id": {
+    "$oid": "68272980d65f589e534ef97b"
+  },
+  "keyword": "Screw",
+  "index": 6,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+},
+{
+  "_id": {
+    "$oid": "68272989d65f589e534ef97d"
+  },
+  "keyword": "Screw",
+  "index": 7,
+  "url": "https://www.sciencedirect.com/science/article/pii/S221282712030161X"
+},
+{
+  "_id": {
+    "$oid": "68272995d65f589e534ef97f"
+  },
+  "keyword": "Screw",
+  "index": 8,
+  "url": "https://ieeexplore.ieee.org/abstract/document/9067965/"
+},
+{
+  "_id": {
+    "$oid": "6827299fd65f589e534ef981"
+  },
+  "keyword": "Screw",
+  "index": 9,
+  "url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9780367823085-18/screw-unfastening-method-robotic-disassembly-huang-pham-li-jiang-qu-wang-su-ji"
+},
+{
+  "_id": {
+    "$oid": "68272bff9f761918c78fe736"
+  },
+  "keyword": "Nut",
+  "index": 0,
+  "url": "https://www.mdpi.com/2075-1702/13/4/322"
+},
+{
+  "_id": {
+    "$oid": "68272c039f761918c78fe738"
+  },
+  "keyword": "Nut",
+  "index": 1,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827120301608"
+},
+{
+  "_id": {
+    "$oid": "68272c0e9f761918c78fe73a"
+  },
+  "keyword": "Nut",
+  "index": 2,
+  "url": "https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-logistics-mgmt-dam/documents/practitioner-articles/Thakur-Weigold%20Wagner%20Ong%202016%20The%20challenging%20business%20of%20nuts%20and%20bolts.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272c119f761918c78fe73c"
+  },
+  "keyword": "Nut",
+  "index": 3,
+  "url": "https://core.ac.uk/download/pdf/276386053.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272c159f761918c78fe73e"
+  },
+  "keyword": "Nut",
+  "index": 4,
+  "url": "https://doiserbia.nb.rs/Article.aspx?id=0354-98362402431L"
+},
+{
+  "_id": {
+    "$oid": "68272c189f761918c78fe740"
+  },
+  "keyword": "Nut",
+  "index": 5,
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/migration/in/nuts_and_bolts_manufacturing_in_a_slump_tail_enders_in_the_recent_recession_a_case_study_of_the_engineering_sector_in_rajkot_and_coimbatore.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272c1c9f761918c78fe742"
+  },
+  "keyword": "Nut",
+  "index": 6,
+  "url": "https://www.researchbank.ac.nz/items/3ed7a96e-72a9-4ace-8a84-736a86e0ce2a"
+},
+{
+  "_id": {
+    "$oid": "68272c1f9f761918c78fe744"
+  },
+  "keyword": "Nut",
+  "index": 7,
+  "url": "https://www.mdpi.com/2673-4052/5/2/5"
+},
+{
+  "_id": {
+    "$oid": "68272c239f761918c78fe746"
+  },
+  "keyword": "Nut",
+  "index": 8,
+  "url": "https://bibliotekanauki.pl/articles/99613.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272c269f761918c78fe748"
+  },
+  "keyword": "Nut",
+  "index": 9,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/0954482031000150152"
+},
+{
+  "_id": {
+    "$oid": "68272c370a6ac1075f8dcd80"
+  },
+  "keyword": "Washer",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0736584510000955"
+},
+{
+  "_id": {
+    "$oid": "68272c420a6ac1075f8dcd82"
+  },
+  "keyword": "Washer",
+  "index": 1,
+  "url": "https://www.sciencedirect.com/science/article/pii/S1474667016385639"
+},
+{
+  "_id": {
+    "$oid": "68272c530a6ac1075f8dcd84"
+  },
+  "keyword": "Washer",
+  "index": 2,
+  "url": "https://ieeexplore.ieee.org/abstract/document/8612638/"
+},
+{
+  "_id": {
+    "$oid": "68272c5f0a6ac1075f8dcd86"
+  },
+  "keyword": "Washer",
+  "index": 3,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/00207543.2018.1472404"
+},
+{
+  "_id": {
+    "$oid": "68272c6b0a6ac1075f8dcd88"
+  },
+  "keyword": "Washer",
+  "index": 4,
+  "url": "https://wewi-rapporten.utwente.nl/378/6/2669.The%20dissassembling%20proces%20of%20washing%20machines.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272c6f0a6ac1075f8dcd8a"
+  },
+  "keyword": "Washer",
+  "index": 5,
+  "url": "https://ieeexplore.ieee.org/abstract/document/929075/"
+},
+{
+  "_id": {
+    "$oid": "68272c7c0a6ac1075f8dcd8c"
+  },
+  "keyword": "Washer",
+  "index": 6,
+  "url": "https://ieeexplore.ieee.org/abstract/document/929074/"
+},
+{
+  "_id": {
+    "$oid": "68272c870a6ac1075f8dcd8e"
+  },
+  "keyword": "Washer",
+  "index": 7,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0959652615000864"
+},
+{
+  "_id": {
+    "$oid": "68272c930a6ac1075f8dcd90"
+  },
+  "keyword": "Washer",
+  "index": 8,
+  "url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9780203908099-27/product-disassembly-recycling-automotive-industry-sanchoy-das"
+},
+{
+  "_id": {
+    "$oid": "68272c960a6ac1075f8dcd92"
+  },
+  "keyword": "Washer",
+  "index": 9,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+},
+{
+  "_id": {
+    "$oid": "68272ca5fce9eb62759ba451"
+  },
+  "keyword": "Cotter pin",
+  "index": 0,
+  "url": "https://www.cdc.gov/Niosh/FACE/stateface/NY/08ny011.html"
+},
+{
+  "_id": {
+    "$oid": "68272ca8fce9eb62759ba453"
+  },
+  "keyword": "Cotter pin",
+  "index": 1,
+  "url": "https://lirias.kuleuven.be/retrieve/503476"
+},
+{
+  "_id": {
+    "$oid": "68272cacfce9eb62759ba455"
+  },
+  "keyword": "Cotter pin",
+  "index": 2,
+  "url": "https://search.proquest.com/openview/369afda33f0c3bb9916ae272113930bc/1?pq-origsite=gscholar&cbl=18750&diss=y"
+},
+{
+  "_id": {
+    "$oid": "68272caffce9eb62759ba457"
+  },
+  "keyword": "Cotter pin",
+  "index": 3,
+  "url": "https://hal.science/hal-04572989/"
+},
+{
+  "_id": {
+    "$oid": "68272cb3fce9eb62759ba459"
+  },
+  "keyword": "Cotter pin",
+  "index": 4,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2215098619305956"
+},
+{
+  "_id": {
+    "$oid": "68272cbdfce9eb62759ba45b"
+  },
+  "keyword": "Cotter pin",
+  "index": 5,
+  "url": "https://books.google.com/books?hl=en&lr=&id=wOjMbZsBX1AC&oi=fnd&pg=PA9&dq=industry+disassembly+Cotter+pin&ots=5qRn-1OW35&sig=J5ryHf4hD0pgannJl736_9KBcBg"
+},
+{
+  "_id": {
+    "$oid": "68272cc0fce9eb62759ba45d"
+  },
+  "keyword": "Cotter pin",
+  "index": 6,
+  "url": "https://books.google.com/books?hl=en&lr=&id=Iya9G8EPumwC&oi=fnd&pg=PA211&dq=industry+disassembly+Cotter+pin&ots=RZGrCHfDAq&sig=HqWNpmk7-pRz8xAOqMuDqoNveTE"
+},
+{
+  "_id": {
+    "$oid": "68272cc4fce9eb62759ba45f"
+  },
+  "keyword": "Cotter pin",
+  "index": 7,
+  "url": "https://lutpub.lut.fi/handle/10024/161687"
+},
+{
+  "_id": {
+    "$oid": "68272cc7fce9eb62759ba461"
+  },
+  "keyword": "Cotter pin",
+  "index": 8,
+  "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470168196#page=220"
+},
+{
+  "_id": {
+    "$oid": "68272cd5fce9eb62759ba463"
+  },
+  "keyword": "Cotter pin",
+  "index": 9,
+  "url": "https://ebooks.iospress.nl/doi/10.3233/ATDE230484"
+},
+{
+  "_id": {
+    "$oid": "68272ce0e2d5f7e0dc8f0d67"
+  },
+  "keyword": "Staple",
+  "index": 0,
+  "url": "https://www.researchgate.net/profile/Israel-Dunmade/publication/273177520_Lifecycle_assessment_of_a_stapling_machine/links/578cf3dd08ae7a588ef3d5ad/Lifecycle-assessment-of-a-stapling-machine.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272ce4e2d5f7e0dc8f0d69"
+  },
+  "keyword": "Staple",
+  "index": 1,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827116001037"
+},
+{
+  "_id": {
+    "$oid": "68272cede2d5f7e0dc8f0d6b"
+  },
+  "keyword": "Staple",
+  "index": 2,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+},
+{
+  "_id": {
+    "$oid": "68272cf7e2d5f7e0dc8f0d6d"
+  },
+  "keyword": "Staple",
+  "index": 3,
+  "url": "https://link.springer.com/content/pdf/10.1007/978-3-319-26121-8_16?pdf=chapter%20toc#page=30"
+},
+{
+  "_id": {
+    "$oid": "68272d03e2d5f7e0dc8f0d6f"
+  },
+  "keyword": "Staple",
+  "index": 4,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0921344917301763"
+},
+{
+  "_id": {
+    "$oid": "68272d0de2d5f7e0dc8f0d71"
+  },
+  "keyword": "Staple",
+  "index": 5,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/00207540902893433"
+},
+{
+  "_id": {
+    "$oid": "68272d1ae2d5f7e0dc8f0d73"
+  },
+  "keyword": "Staple",
+  "index": 6,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/002075400189356"
+},
+{
+  "_id": {
+    "$oid": "68272d24e2d5f7e0dc8f0d75"
+  },
+  "keyword": "Staple",
+  "index": 7,
+  "url": "https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/140/3/031015/366674"
+},
+{
+  "_id": {
+    "$oid": "68272d29e2d5f7e0dc8f0d77"
+  },
+  "keyword": "Staple",
+  "index": 8,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/0954482031000150152"
+},
+{
+  "_id": {
+    "$oid": "68272d33e2d5f7e0dc8f0d79"
+  },
+  "keyword": "Staple",
+  "index": 9,
+  "url": "https://www.tandfonline.com/doi/abs/10.2147/RMHP.S415989"
+},
+{
+  "_id": {
+    "$oid": "68272d3da82cb038f6ba5a17"
+  },
+  "keyword": "Rivet",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827116001037"
+},
+{
+  "_id": {
+    "$oid": "68272d48a82cb038f6ba5a19"
+  },
+  "keyword": "Rivet",
+  "index": 1,
+  "url": "https://mfr.edp-open.org/articles/mfreview/abs/2020/01/mfreview200045/mfreview200045.html"
+},
+{
+  "_id": {
+    "$oid": "68272d4ba82cb038f6ba5a1b"
+  },
+  "keyword": "Rivet",
+  "index": 2,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827116000998"
+},
+{
+  "_id": {
+    "$oid": "68272d56a82cb038f6ba5a1d"
+  },
+  "keyword": "Rivet",
+  "index": 3,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0263823122006176"
+},
+{
+  "_id": {
+    "$oid": "68272d5da82cb038f6ba5a1f"
+  },
+  "keyword": "Rivet",
+  "index": 4,
+  "url": "https://search.proquest.com/openview/6b32f1c63a5efcce249deb2ba3d8a28a/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+},
+{
+  "_id": {
+    "$oid": "68272d60a82cb038f6ba5a21"
+  },
+  "keyword": "Rivet",
+  "index": 5,
+  "url": "https://www.emerald.com/insight/content/doi/10.1108/AA-06-2018-079/full/html"
+},
+{
+  "_id": {
+    "$oid": "68272d6ba82cb038f6ba5a23"
+  },
+  "keyword": "Rivet",
+  "index": 6,
+  "url": "https://ieeexplore.ieee.org/abstract/document/10610546/"
+},
+{
+  "_id": {
+    "$oid": "68272d6fa82cb038f6ba5a25"
+  },
+  "keyword": "Rivet",
+  "index": 7,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/00207543.2016.1165877"
+},
+{
+  "_id": {
+    "$oid": "68272d79a82cb038f6ba5a27"
+  },
+  "keyword": "Rivet",
+  "index": 8,
+  "url": "https://link.springer.com/article/10.1007/s00170-021-07689-w"
+},
+{
+  "_id": {
+    "$oid": "68272d84a82cb038f6ba5a29"
+  },
+  "keyword": "Rivet",
+  "index": 9,
+  "url": "https://link.springer.com/article/10.1007/s00170-014-6113-z"
+},
+{
+  "_id": {
+    "$oid": "68272d96dff06031159a571f"
+  },
+  "keyword": "Adhesive",
+  "index": 0,
+  "url": "https://www.scientific.net/MSF.765.766"
+},
+{
+  "_id": {
+    "$oid": "68272d9edff06031159a5721"
+  },
+  "keyword": "Adhesive",
+  "index": 1,
+  "url": "https://www.sciencedirect.com/science/article/pii/B9780128199541000162"
+},
+{
+  "_id": {
+    "$oid": "68272da2dff06031159a5723"
+  },
+  "keyword": "Adhesive",
+  "index": 2,
+  "url": "https://www.sciencedirect.com/science/article/pii/B9780128191606000172"
+},
+{
+  "_id": {
+    "$oid": "68272da5dff06031159a5725"
+  },
+  "keyword": "Adhesive",
+  "index": 3,
+  "url": "https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.2c02436"
+},
+{
+  "_id": {
+    "$oid": "68272da9dff06031159a5727"
+  },
+  "keyword": "Adhesive",
+  "index": 4,
+  "url": "https://www.intechopen.com/chapters/66001"
+},
+{
+  "_id": {
+    "$oid": "68272daddff06031159a5729"
+  },
+  "keyword": "Adhesive",
+  "index": 5,
+  "url": "https://pubs.rsc.org/en/content/articlehtml/2022/gc/d1gc03306a"
+},
+{
+  "_id": {
+    "$oid": "68272db4dff06031159a572b"
+  },
+  "keyword": "Adhesive",
+  "index": 6,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/00218464.2016.1237876"
+},
+{
+  "_id": {
+    "$oid": "68272dcadff06031159a572d"
+  },
+  "keyword": "Adhesive",
+  "index": 7,
+  "url": "https://www.sciencedirect.com/science/article/pii/B9780323912143000235"
+},
+{
+  "_id": {
+    "$oid": "68272dcddff06031159a572f"
+  },
+  "keyword": "Adhesive",
+  "index": 8,
+  "url": "https://radar.brookes.ac.uk/radar/items/4bda6ea9-3c36-40d2-b023-84f670f20e92/1/MP-AVT-266-22.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272dd1dff06031159a5731"
+  },
+  "keyword": "Adhesive",
+  "index": 9,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2215098619305956"
+},
+{
+  "_id": {
+    "$oid": "68272ddf97b2622125a3e969"
+  },
+  "keyword": "Surface: mating",
+  "index": 0,
+  "url": "https://ieeexplore.ieee.org/abstract/document/5668287/"
+},
+{
+  "_id": {
+    "$oid": "68272de797b2622125a3e96b"
+  },
+  "keyword": "Surface: mating",
+  "index": 1,
+  "url": "https://www.daaam.info/Downloads/Pdfs/science_books_pdfs/2014/Sc_Book_2014-029.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272deb97b2622125a3e96d"
+  },
+  "keyword": "Surface: mating",
+  "index": 2,
+  "url": "https://www.emerald.com/insight/content/doi/10.1108/01445151111104182/full/html"
+},
+{
+  "_id": {
+    "$oid": "68272df497b2622125a3e96f"
+  },
+  "keyword": "Surface: mating",
+  "index": 3,
+  "url": "https://ieeexplore.ieee.org/abstract/document/9488468/"
+},
+{
+  "_id": {
+    "$oid": "68272dfb97b2622125a3e971"
+  },
+  "keyword": "Surface: mating",
+  "index": 4,
+  "url": "https://www.researchgate.net/profile/Robert-Iacob/publication/242651004_AssemblyDisassembly_Analysis_and_Modeling_Techniques_A_Review/links/0046352ab2123ce295000000/Assembly-Disassembly-Analysis-and-Modeling-Techniques-A-Review.pdf"
+},
+{
+  "_id": {
+    "$oid": "68272dfe97b2622125a3e973"
+  },
+  "keyword": "Surface: mating",
+  "index": 5,
+  "url": "https://journals.sagepub.com/doi/abs/10.1177/0954406220941893"
+},
+{
+  "_id": {
+    "$oid": "68272e0797b2622125a3e975"
+  },
+  "keyword": "Surface: mating",
+  "index": 6,
+  "url": "https://link.springer.com/article/10.1186/s10033-023-00885-7"
+},
+{
+  "_id": {
+    "$oid": "68272e0a97b2622125a3e977"
+  },
+  "keyword": "Surface: mating",
+  "index": 7,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/09544820601013019"
+},
+{
+  "_id": {
+    "$oid": "68272e1397b2622125a3e979"
+  },
+  "keyword": "Surface: mating",
+  "index": 8,
+  "url": "https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/140/4/041011/380518"
+},
+{
+  "_id": {
+    "$oid": "68272e1797b2622125a3e97b"
+  },
+  "keyword": "Surface: mating",
+  "index": 9,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/00207540110102142"
+},
+{
+  "_id": {
+    "$oid": "68272e26692254488a07a674"
+  },
+  "keyword": "Surface: press fit",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S1526612519303950"
+},
+{
+  "_id": {
+    "$oid": "68272e2f692254488a07a676"
+  },
+  "keyword": "Surface: press fit",
+  "index": 1,
+  "url": "https://journals.sagepub.com/doi/abs/10.1177/0954405419883060"
+},
+{
+  "_id": {
+    "$oid": "68272e38692254488a07a678"
+  },
+  "keyword": "Surface: press fit",
+  "index": 2,
+  "url": "https://www.mater-tehnol.si/index.php/MatTech/article/view/120"
+},
+{
+  "_id": {
+    "$oid": "68272e3c692254488a07a67a"
+  },
+  "keyword": "Surface: press fit",
+  "index": 3,
+  "url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2015/823019"
+},
+{
+  "_id": {
+    "$oid": "68272e45692254488a07a67c"
+  },
+  "keyword": "Surface: press fit",
+  "index": 4,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0169814103000672"
+},
+{
+  "_id": {
+    "$oid": "68272e4c692254488a07a67e"
+  },
+  "keyword": "Surface: press fit",
+  "index": 5,
+  "url": "https://www.mdpi.com/2075-1702/11/5/538"
+},
+{
+  "_id": {
+    "$oid": "68272e4f692254488a07a680"
+  },
+  "keyword": "Surface: press fit",
+  "index": 6,
+  "url": "https://link.springer.com/article/10.1186/s10033-023-00885-7"
+},
+{
+  "_id": {
+    "$oid": "68272e53692254488a07a682"
+  },
+  "keyword": "Surface: press fit",
+  "index": 7,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0959652611002393"
+},
+{
+  "_id": {
+    "$oid": "68272e5c692254488a07a684"
+  },
+  "keyword": "Surface: press fit",
+  "index": 8,
+  "url": "https://link.springer.com/article/10.1007/s00170-015-7168-1"
+},
+{
+  "_id": {
+    "$oid": "68272e65692254488a07a686"
+  },
+  "keyword": "Surface: press fit",
+  "index": 9,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0007850607600262"
+},
+{
+  "_id": {
+    "$oid": "68272e73edfbece1bef96021"
+  },
+  "keyword": "Snap fit",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0959652611002393"
+},
+{
+  "_id": {
+    "$oid": "68272e7cedfbece1bef96023"
+  },
+  "keyword": "Snap fit",
+  "index": 1,
+  "url": "https://link.springer.com/article/10.1007/s00170-013-5174-8"
+},
+{
+  "_id": {
+    "$oid": "68272e85edfbece1bef96025"
+  },
+  "keyword": "Snap fit",
+  "index": 2,
+  "url": "https://www.emerald.com/insight/content/doi/10.1108/wje-09-2023-0370/full/html"
+},
+{
+  "_id": {
+    "$oid": "68272e88edfbece1bef96027"
+  },
+  "keyword": "Snap fit",
+  "index": 3,
+  "url": "https://www.emerald.com/insight/content/doi/10.1108/01445151211244384/full/html"
+},
+{
+  "_id": {
+    "$oid": "68272e91edfbece1bef96029"
+  },
+  "keyword": "Snap fit",
+  "index": 4,
+  "url": "https://link.springer.com/chapter/10.1007/978-981-19-3307-3_29"
+},
+{
+  "_id": {
+    "$oid": "68272e98edfbece1bef9602b"
+  },
+  "keyword": "Snap fit",
+  "index": 5,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2215098619305956"
+},
+{
+  "_id": {
+    "$oid": "68272e9fedfbece1bef9602d"
+  },
+  "keyword": "Snap fit",
+  "index": 6,
+  "url": "https://search.proquest.com/openview/69e2b66f65a124b1856d6547c5e38cae/1?pq-origsite=gscholar&cbl=18750"
+},
+{
+  "_id": {
+    "$oid": "68272ea3edfbece1bef9602f"
+  },
+  "keyword": "Snap fit",
+  "index": 7,
+  "url": "https://link.springer.com/article/10.1007/s00170-015-7168-1"
+},
+{
+  "_id": {
+    "$oid": "68272eabedfbece1bef96031"
+  },
+  "keyword": "Snap fit",
+  "index": 8,
+  "url": "https://www.preprints.org/manuscript/202201.0076/download/final_file"
+},
+{
+  "_id": {
+    "$oid": "68272eafedfbece1bef96033"
+  },
+  "keyword": "Snap fit",
+  "index": 9,
+  "url": "https://link.springer.com/article/10.1007/s00170-018-3027-1"
+},
+{
+  "_id": {
+    "$oid": "6827388e73bcb74ec09770b1"
+  },
+  "keyword": "Surface: mould",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0959652613006173"
+},
+{
+  "_id": {
+    "$oid": "6827389873bcb74ec09770b3"
+  },
+  "keyword": "Surface: mould",
+  "index": 1,
+  "url": "https://www.academia.edu/download/52118856/jeas_0815_2400.pdf"
+},
+{
+  "_id": {
+    "$oid": "6827389c73bcb74ec09770b5"
+  },
+  "keyword": "Surface: mould",
+  "index": 2,
+  "url": "https://link.springer.com/article/10.1007/s00170-008-1739-3"
+},
+{
+  "_id": {
+    "$oid": "682738a673bcb74ec09770b7"
+  },
+  "keyword": "Surface: mould",
+  "index": 3,
+  "url": "https://www.ingentaconnect.com/contentone/asp/asl/2017/00000023/00000005/art00130"
+},
+{
+  "_id": {
+    "$oid": "682738aa73bcb74ec09770b9"
+  },
+  "keyword": "Surface: mould",
+  "index": 4,
+  "url": "https://books.google.com/books?hl=en&lr=&id=9lZSEQAAQBAJ&oi=fnd&pg=PA93&dq=industry+disassembly+Surface:+mould&ots=fV5LiC94yf&sig=fVSRpi5vHaf4eaV43IEKzMm0JJE"
+},
+{
+  "_id": {
+    "$oid": "682738ad73bcb74ec09770bb"
+  },
+  "keyword": "Surface: mould",
+  "index": 5,
+  "url": "http://www.robmech.co.za/proceed/ROBMECH2011_Oke_Process%20Planning%20for%20Reconfigurable%20Manufacturing%20System%20for%20Mould%20or%20Die%20Making.pdf"
+},
+{
+  "_id": {
+    "$oid": "682738b173bcb74ec09770bd"
+  },
+  "keyword": "Surface: mould",
+  "index": 6,
+  "url": "https://inlibrary.uz/index.php/ajast/article/view/37575"
+},
+{
+  "_id": {
+    "$oid": "682738b473bcb74ec09770bf"
+  },
+  "keyword": "Surface: mould",
+  "index": 7,
+  "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14581"
+},
+{
+  "_id": {
+    "$oid": "682738bb73bcb74ec09770c1"
+  },
+  "keyword": "Surface: mould",
+  "index": 8,
+  "url": "https://www.tandfonline.com/doi/abs/10.1080/23311916.2019.1609178"
+},
+{
+  "_id": {
+    "$oid": "682738c673bcb74ec09770c3"
+  },
+  "keyword": "Surface: mould",
+  "index": 9,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0959652621038087"
+},
+{
+  "_id": {
+    "$oid": "682738cfaeeec6d20b13f02e"
+  },
+  "keyword": "Seam fold",
+  "index": 0,
+  "url": "https://www.mdpi.com/2071-1050/15/21/15505"
+},
+{
+  "_id": {
+    "$oid": "682738d3aeeec6d20b13f030"
+  },
+  "keyword": "Seam fold",
+  "index": 1,
+  "url": "https://books.google.com/books?hl=en&lr=&id=6wRiCAAAQBAJ&oi=fnd&pg=PA184&dq=industry+disassembly+Seam+fold&ots=fnbXggpJgS&sig=Z_1QyNZaqeCtTgfHZ1s7SSCim3Y"
+},
+{
+  "_id": {
+    "$oid": "682738d6aeeec6d20b13f032"
+  },
+  "keyword": "Seam fold",
+  "index": 2,
+  "url": "https://digitalcommons.njit.edu/theses/953/"
+},
+{
+  "_id": {
+    "$oid": "682738daaeeec6d20b13f034"
+  },
+  "keyword": "Seam fold",
+  "index": 3,
+  "url": "https://rave.ohiolink.edu/etdc/view?acc_num=kent171526016744001"
+},
+{
+  "_id": {
+    "$oid": "682738ddaeeec6d20b13f036"
+  },
+  "keyword": "Seam fold",
+  "index": 4,
+  "url": "https://books.google.com/books?hl=en&lr=&id=jdTVDwAAQBAJ&oi=fnd&pg=PA1&dq=industry+disassembly+Seam+fold&ots=NRPcWDQE5X&sig=1Dvax1Y0vmVVUn3liH2G5w5bPNE"
+},
+{
+  "_id": {
+    "$oid": "682738e0aeeec6d20b13f038"
+  },
+  "keyword": "Seam fold",
+  "index": 5,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827122011763"
+},
+{
+  "_id": {
+    "$oid": "682738e7aeeec6d20b13f03a"
+  },
+  "keyword": "Seam fold",
+  "index": 6,
+  "url": "https://www.mdpi.com/2073-4360/16/4/515"
+},
+{
+  "_id": {
+    "$oid": "682738ebaeeec6d20b13f03c"
+  },
+  "keyword": "Seam fold",
+  "index": 7,
+  "url": "https://arc.aiaa.org/doi/pdf/10.2514/6.2000-1822"
+},
+{
+  "_id": {
+    "$oid": "682738f6aeeec6d20b13f03e"
+  },
+  "keyword": "Seam fold",
+  "index": 8,
+  "url": "https://asmedigitalcollection.asme.org/astm-ebooks/book/chapter-pdf/7214578/10_1520_stp49699s.pdf"
+},
+{
+  "_id": {
+    "$oid": "682738f9aeeec6d20b13f040"
+  },
+  "keyword": "Seam fold",
+  "index": 9,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0142694X23000467"
+},
+{
+  "_id": {
+    "$oid": "6827390367259d389fd61d0a"
+  },
+  "keyword": "Seal",
+  "index": 0,
+  "url": "https://koreascience.kr/article/JAKO200214960614630.page"
+},
+{
+  "_id": {
+    "$oid": "6827390667259d389fd61d0c"
+  },
+  "keyword": "Seal",
+  "index": 1,
+  "url": "https://books.google.com/books?hl=en&lr=&id=hO_op52rzm4C&oi=fnd&pg=PP1&dq=industry+disassembly+Seal&ots=tA5AuN-43J&sig=0xDT8unJLuo3L7NNgONZXoHGIyI"
+},
+{
+  "_id": {
+    "$oid": "6827390a67259d389fd61d0e"
+  },
+  "keyword": "Seal",
+  "index": 2,
+  "url": "https://ebooks.iospress.nl/doi/10.3233/ATDE220134"
+},
+{
+  "_id": {
+    "$oid": "6827390d67259d389fd61d10"
+  },
+  "keyword": "Seal",
+  "index": 3,
+  "url": "https://books.google.com/books?hl=en&lr=&id=seCeCwAAQBAJ&oi=fnd&pg=PT26&dq=industry+disassembly+Seal&ots=cNqlGtrLzG&sig=HvQCEvXzL_zCjJzh7acY6mGI1MU"
+},
+{
+  "_id": {
+    "$oid": "6827391167259d389fd61d12"
+  },
+  "keyword": "Seal",
+  "index": 4,
+  "url": "https://apem-journal.org/Archives/2017/APEM12-4_305-320.pdf"
+},
+{
+  "_id": {
+    "$oid": "6827391467259d389fd61d14"
+  },
+  "keyword": "Seal",
+  "index": 5,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0920410519304747"
+},
+{
+  "_id": {
+    "$oid": "6827391f67259d389fd61d16"
+  },
+  "keyword": "Seal",
+  "index": 6,
+  "url": "https://www.sciencedirect.com/science/article/pii/S000785060762530X"
+},
+{
+  "_id": {
+    "$oid": "6827392a67259d389fd61d18"
+  },
+  "keyword": "Seal",
+  "index": 7,
+  "url": "https://ieeexplore.ieee.org/abstract/document/9325326/"
+},
+{
+  "_id": {
+    "$oid": "6827393467259d389fd61d1a"
+  },
+  "keyword": "Seal",
+  "index": 8,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2667378923000445"
+},
+{
+  "_id": {
+    "$oid": "6827393767259d389fd61d1c"
+  },
+  "keyword": "Seal",
+  "index": 9,
+  "url": "https://www.sae.org/publications/technical-papers/content/960212/"
+},
+{
+  "_id": {
+    "$oid": "682739419deee7b63b1329bb"
+  },
+  "keyword": "Solder",
+  "index": 0,
+  "url": "https://pubs.acs.org/doi/abs/10.1021/es402102t"
+},
+{
+  "_id": {
+    "$oid": "6827394c9deee7b63b1329bd"
+  },
+  "keyword": "Solder",
+  "index": 1,
+  "url": "https://www.scientific.net/amm.457-458.474"
+},
+{
+  "_id": {
+    "$oid": "682739569deee7b63b1329bf"
+  },
+  "keyword": "Solder",
+  "index": 2,
+  "url": "https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/141/2/021011/477534"
+},
+{
+  "_id": {
+    "$oid": "6827395a9deee7b63b1329c1"
+  },
+  "keyword": "Solder",
+  "index": 3,
+  "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=dc60ec20d749d2fb298f0b75d7336f517144f5ca#page=26"
+},
+{
+  "_id": {
+    "$oid": "6827395d9deee7b63b1329c3"
+  },
+  "keyword": "Solder",
+  "index": 4,
+  "url": "https://www.worldscientific.com/doi/abs/10.1142/S0960313197000026"
+},
+{
+  "_id": {
+    "$oid": "6827396d9deee7b63b1329c5"
+  },
+  "keyword": "Solder",
+  "index": 5,
+  "url": "https://link.springer.com/article/10.1007/s10163-024-01917-7"
+},
+{
+  "_id": {
+    "$oid": "682739719deee7b63b1329c7"
+  },
+  "keyword": "Solder",
+  "index": 6,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0921344909000512"
+},
+{
+  "_id": {
+    "$oid": "6827397b9deee7b63b1329c9"
+  },
+  "keyword": "Solder",
+  "index": 7,
+  "url": "https://www.mdpi.com/2227-9717/11/7/2052"
+},
+{
+  "_id": {
+    "$oid": "6827397f9deee7b63b1329cb"
+  },
+  "keyword": "Solder",
+  "index": 8,
+  "url": "https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2018/V004T05A006/275051"
+},
+{
+  "_id": {
+    "$oid": "682739839deee7b63b1329cd"
+  },
+  "keyword": "Solder",
+  "index": 9,
+  "url": "https://ieeexplore.ieee.org/abstract/document/7829842/"
+},
+{
+  "_id": {
+    "$oid": "68273994da83f2e43f9cb3ac"
+  },
+  "keyword": "Weld",
+  "index": 0,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2212827120308702"
+},
+{
+  "_id": {
+    "$oid": "682739a1da83f2e43f9cb3ae"
+  },
+  "keyword": "Weld",
+  "index": 1,
+  "url": "https://www.mdpi.com/1996-1944/14/10/2521"
+},
+{
+  "_id": {
+    "$oid": "682739a5da83f2e43f9cb3b0"
+  },
+  "keyword": "Weld",
+  "index": 2,
+  "url": "https://ieeexplore.ieee.org/abstract/document/5373411/"
+},
+{
+  "_id": {
+    "$oid": "682739b0da83f2e43f9cb3b2"
+  },
+  "keyword": "Weld",
+  "index": 3,
+  "url": "https://www.sciencedirect.com/science/article/pii/S2215098619305956"
+},
+{
+  "_id": {
+    "$oid": "682739bada83f2e43f9cb3b4"
+  },
+  "keyword": "Weld",
+  "index": 4,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0736584521000910"
+},
+{
+  "_id": {
+    "$oid": "682739c5da83f2e43f9cb3b6"
+  },
+  "keyword": "Weld",
+  "index": 5,
+  "url": "https://www.researchgate.net/profile/Dirk-Schwede/publication/305626924_System_for_the_analysis_and_design_for_disassembly_and_recycling_in_the_construction_industry/links/5826a3c408ae5c0137ebae1a/System-for-the-analysis-and-design-for-disassembly-and-recycling-in-the-construction-industry.pdf"
+},
+{
+  "_id": {
+    "$oid": "682739c9da83f2e43f9cb3b8"
+  },
+  "keyword": "Weld",
+  "index": 6,
+  "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1417715"
+},
+{
+  "_id": {
+    "$oid": "682739cdda83f2e43f9cb3ba"
+  },
+  "keyword": "Weld",
+  "index": 7,
+  "url": "https://scidar.kg.ac.rs/handle/123456789/9648"
+},
+{
+  "_id": {
+    "$oid": "682739d2da83f2e43f9cb3bc"
+  },
+  "keyword": "Weld",
+  "index": 8,
+  "url": "https://www.sciencedirect.com/science/article/pii/S0921344902001532"
+},
+{
+  "_id": {
+    "$oid": "682739ddda83f2e43f9cb3be"
+  },
+  "keyword": "Weld",
+  "index": 9,
+  "url": "https://www.sciencedirect.com/science/article/pii/S1474034618302659"
+}]
