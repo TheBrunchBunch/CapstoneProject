@@ -2,7 +2,7 @@
 
 ## Project Structure
 CapstoneProject/
-├── crawler/
+├── crawler/ \
 ├── data/
 │   └── disassembly.jsonl        # Entity triples (tool-action-component-source)
 ├── docker-compose.yml           # Neo4j service definition
