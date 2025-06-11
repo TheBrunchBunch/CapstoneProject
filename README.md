@@ -56,3 +56,19 @@ RETURN a.name   AS Action,
 MATCH (a:Action {name: "UNSCREW"})
       -[:REQUIRES_SOURCE]->(s:Source)
 RETURN s.name   AS Source;
+
+### 4. Handling Grouped Actions and Sequential Edges
+
+- If the information extraction output includes the `group` field, remember to:
+    - Set `strict_group=True` when initializing `DisassemblyGraph`
+    - **Uncomment** the following lines in `main.py` to enable step-by-step logic:
+        
+        ```python
+        handler.create_task_nodes() # Build Task nodes for grouped actions
+        handler.create_sequence_edges() # Create :NEXT relationships between ordered steps
+        
+        ```
+        
+- If the data **does not include** the `group` field:
+    - Set `strict_group=False` (default)
+    - Keep the above lines **commented out**, so the graph builder will skip sequential modeling.
