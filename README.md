@@ -12,7 +12,7 @@ CapstoneProject/ \
 │   └── config.py                # Reads Neo4j credentials from .env \
 ├── main.py                      # Execution entry \
 ├── .env                         # Contains Neo4j URI/user/password (ignored) \
-├── user interface               # frontend+backend part
+├── user interface               # frontend+backend part \
 └── requirements.txt             # Python dependencies \
 
 
