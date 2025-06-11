@@ -1,18 +1,18 @@
 # CapstoneProject
 
 ## Project Structure
-CapstoneProject/
+CapstoneProject/ \
 ├── crawler/ \
-├── data/
-│   └── disassembly.jsonl        # Entity triples (tool-action-component-source)
-├── docker-compose.yml           # Neo4j service definition
-├── graph/
-│   └── disassembly_graph.py     # Graph construction logic
-├── config/
-│   └── config.py                # Reads Neo4j credentials from .env
-├── main.py                      # Execution entry
-├── .env                         # Contains Neo4j URI/user/password (ignored)
-└── requirements.txt             # Python dependencies
+├── data/ \
+│   └── disassembly.jsonl        # Entity triples (tool-action-component-source) \
+├── docker-compose.yml           # Neo4j service definition \
+├── graph/ \
+│   └── disassembly_graph.py     # Graph construction logic \
+├── config/ \
+│   └── config.py                # Reads Neo4j credentials from .env \
+├── main.py                      # Execution entry \
+├── .env                         # Contains Neo4j URI/user/password (ignored) \
+└── requirements.txt             # Python dependencies \
 
 ## Part1: Web Crawler for Google Scholar and Google Search
 This module is a modular web crawler and paper downloader designed to collect and process industrial disassembly–related documents using Google Search, Google Scholar, and Sci-Hub. The results are stored in MongoDB and optionally uploaded to Google Drive.
